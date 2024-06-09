@@ -1,6 +1,4 @@
-Of course! Here is the content of the `README.md` in English:
 
-```markdown
 # Python Projects Repository
 
 This repository contains a collection of small projects developed in Python. Each project has a specific purpose and utilizes different libraries and programming concepts.
@@ -96,5 +94,3 @@ Contributions are welcome. If you want to add improvements or fix bugs, please o
 
 This repository is distributed under the MIT License. See the `LICENSE` file for more details.
 ```
-
-Save this content in a file named `README.md` in the root directory of your repository. This will provide a clear and concise description of each project within the repository, as well as basic instructions for usage and execution.
