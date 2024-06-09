@@ -1,3 +1,5 @@
+Crea una aplicación gráfica que muestre una imagen dentro de un botón. Al hacer clic en este botón, debe imprimirse "hola" en la consola. Utiliza la biblioteca wxPython y la clase App para inicializar y ejecutar la aplicación.
+
 from wx import *
 
 class MyApp(App):

@@ -1,3 +1,6 @@
+Construye una aplicación gráfica utilizando la biblioteca wxPython que contenga dos paneles de diferentes colores: uno en la parte superior y otro en la parte inferior de la ventana. En el panel superior, coloca un botón con el texto "Saludar". Al hacer clic en este botón, se debe cambiar el texto de un StaticText ubicado en el panel inferior para que muestre el mensaje "Hi Kissling!". Utiliza la clase App proporcionada por wxPython para inicializar y mostrar la aplicación.
+
+
 from wx import *
 
 

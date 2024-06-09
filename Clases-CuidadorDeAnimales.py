@@ -1,3 +1,5 @@
+Desarrolla un programa que simule la gestión de una jaula que alberga pumas y venados. La jaula puede contener diferentes cantidades de cada uno de estos animales. Los pumas y venados tienen características específicas, como el peso y la edad, que afectan su estado de salud. Utiliza clases para representar a los animales y a la jaula, y permite al usuario ingresar información sobre los animales en la jaula. El programa debería poder mostrar el estado de salud de los animales en la jaula.
+
 class Animal():
     def salud(self,peso,pesosano):
         if peso>=pesosano:
